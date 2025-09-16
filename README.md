@@ -85,6 +85,6 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-@irzelindo <irzelindo@gmail.com>
+@irzelindo.salvador <irzelindo.salvador@gmail.com>
 
 Generated solutions for Codveda Python development tasks.
